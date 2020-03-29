@@ -41,6 +41,12 @@ Sistema >> initialize [
 ]
 
 { #category : #initialization }
+Sistema >> nuevoMetodo [
+
+	^ 'prueba'.
+]
+
+{ #category : #initialization }
 Sistema >> numero [
 
 	^ numero.
