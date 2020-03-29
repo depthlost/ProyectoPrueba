@@ -43,7 +43,7 @@ Sistema >> initialize [
 { #category : #initialization }
 Sistema >> nuevoMetodo [
 
-	^ 'prueba'.
+	^ 'otro valor'.
 ]
 
 { #category : #initialization }
